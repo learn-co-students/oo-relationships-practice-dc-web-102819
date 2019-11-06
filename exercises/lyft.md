@@ -26,6 +26,7 @@ Create the necessary methods to connect these classes.
     service
 - .premium_members
   - should find all passengers who have travelled over 100 miles with the service
+- my_drivers_names_through_rides
 
 #### Driver
 
@@ -37,6 +38,7 @@ Create the necessary methods to connect these classes.
   - returns an array of all drivers
 - .mileage_cap(distance)
   - takes an argument of a distance (float) and returns all drivers who have exceeded that mileage
+
 
 #### Ride
 
