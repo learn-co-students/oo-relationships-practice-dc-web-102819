@@ -31,6 +31,7 @@ Complete the following deliverables.  You may choose to make additional helper m
     service
 - .premium_members
   - should find all passengers who have travelled over 100 miles with the service
+- my_drivers_names_through_rides
 
 #### Driver
 
@@ -44,6 +45,7 @@ Complete the following deliverables.  You may choose to make additional helper m
   - returns an array of all drivers
 - .mileage_cap(distance)
   - takes an argument of a distance (float) and returns all drivers who have exceeded that mileage
+
 
 #### Ride
 
